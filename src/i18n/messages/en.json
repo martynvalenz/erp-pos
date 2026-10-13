@@ -1,0 +1,62 @@
+{
+  "site": {
+    "meta": {
+      "title": "Cherry pick",
+      "description": "Software development CRM."
+    },
+    "header": {
+      "login": "Login",
+      "signup": "Sign Up",
+      "getStarted": "Get Started",
+      "logOut": "Log Out",
+      "dashboard": "Go to app"
+    }
+  },
+  "login": {
+    "seo": {
+      "title": "Login",
+      "description": "Login to your account"
+    }
+  },
+  "onboarding": {
+    "seo": {
+      "title": "Welcome",
+      "description": "Welcome to Cherry pick, the CRM for software development"
+    }
+  },
+  "system": {
+    "organizations": {
+      "title": "Organizations",
+      "subtitle": "System",
+      "description": "See the organizations"
+    }
+  },
+  "main": {
+    "workspace": {
+      "title": "Organization"
+    },
+    "store": {
+      "title": "Store"
+    },
+    "patients": {
+      "title": "Patients"
+    },
+    "appointments": {
+      "title": "Appointments"
+    },
+    "catalogs": {
+      "title": "Catalogs",
+      "treatments": {
+        "title": "Treatments Catalog"
+      },
+      "strategies": {
+        "title": "Acquisition strategies"
+      }
+    },
+    "organization": {
+      "users": {
+        "title": "Users"
+      }
+    }
+  }
+}

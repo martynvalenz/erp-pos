@@ -1,0 +1,62 @@
+{
+  "site": {
+    "meta": {
+      "title": "Cherry pick",
+      "description": "Software de gestión de aplicaciones y proyectos de desarrollo"
+    },
+    "header": {
+      "login": "Iniciar sesión",
+      "signup": "Registrarse",
+      "getStarted": "Comenzar",
+      "logOut": "Cerrar sesión",
+      "dashboard": "Ir a la app"
+    }
+  },
+  "login": {
+    "seo": {
+      "title": "Iniciar sesión",
+      "description": "Accede a tu cuenta"
+    }
+  },
+  "onboarding": {
+    "seo": {
+      "title": "Bienvenido",
+      "description": "Bienvenido a Cherry pick, el software de gestión aplicaciones y proyectos de desarollo."
+    }
+  },
+  "system": {
+    "organizations": {
+      "title": "Organizaciones",
+      "subtitle": "Sistema",
+      "description": "Ve las organizaciones"
+    }
+  },
+  "main": {
+    "workspace": {
+      "title": "Organización"
+    },
+    "store": {
+      "title": "Clínica"
+    },
+    "patients": {
+      "title": "Pacientes"
+    },
+    "appointments": {
+      "title": "Citas"
+    },
+    "catalogs": {
+      "title": "Catálogos",
+      "treatments": {
+        "title": "Catálogo de tratamientos"
+      },
+      "strategies": {
+        "title": "Estrategias de captación"
+      }
+    },
+    "organization": {
+      "users": {
+        "title": "Usuarios"
+      }
+    }
+  }
+}
