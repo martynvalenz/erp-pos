@@ -161,7 +161,7 @@ function ToastAction({
       data-slot="toast-action"
       render={render}
       className={cn(
-        "shrink-0 border-current/20 bg-transparent text-current hover:bg-black/5 hover:text-current dark:bg-transparent dark:hover:bg-white/10",
+        "shrink-0 border-current/20 bg-transparent text-current hover:bg-black/5 hover:text-current dark:hover:bg-white/10",
         className,
       )}
       {...props}
